@@ -3,6 +3,6 @@
 [![Screemshot 1](https://img.itch.zone/aW1hZ2UvMjQ4MTM2OC8xNDczODA3Ni5qcGc=/347x500/%2Be0%2FuN.jpg)](https://www.youtube.com/watch?v=o-ZlygqNdPY)
 [![Screemshot 2](https://img.itch.zone/aW1hZ2UvMjQ4MTM2OC8xNDczODA3OS5qcGc=/347x500/U0NR5W.jpg)](https://www.youtube.com/watch?v=o-ZlygqNdPY)
 
-The game was quickly put together in a couple of days so the code may not be the best-written or structured one. But it sure was fan to develop and it sure is fun to play. Check it out! https://lucasserrano.itch.io/rockpapergo.
+The game was quickly put together in a couple of days so the code may not be the best-written or structured one. But it sure was fun to develop and it sure is fun to play. Check it out! https://lucasserrano.itch.io/rockpapergo.
 
-Feel free to check my portfolio to see other cool things I've done! https://s-lucasserrano.github.io/Portfolio/
+Check my portfolio to see other cool things I've done! https://s-lucasserrano.github.io/Portfolio/
